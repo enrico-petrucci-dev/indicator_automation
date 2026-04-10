@@ -129,4 +129,4 @@ python main.py
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) for details.
 
 ### Contact
-If you have any questions or suggestions, feel free to reach out to **Enrico Petrucci** at [enrico.petrucci@outlook.com](mailto:enrico.petrucci.dev@gmail.com).
+If you have any questions or suggestions, feel free to reach out to **Enrico Petrucci** at [enrico.petrucci.dev@gmail.com](mailto:enrico.petrucci.dev@gmail.com).
